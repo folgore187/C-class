@@ -1,0 +1,7 @@
+e:\Users\jason\source\repos\Week4redo\Week4redo\bin\Debug\Week4redo.exe.config
+e:\Users\jason\source\repos\Week4redo\Week4redo\bin\Debug\Week4redo.exe
+e:\Users\jason\source\repos\Week4redo\Week4redo\bin\Debug\Week4redo.pdb
+e:\Users\jason\source\repos\Week4redo\Week4redo\obj\Debug\Week4redo.csprojAssemblyReference.cache
+e:\Users\jason\source\repos\Week4redo\Week4redo\obj\Debug\Week4redo.csproj.CoreCompileInputs.cache
+e:\Users\jason\source\repos\Week4redo\Week4redo\obj\Debug\Week4redo.exe
+e:\Users\jason\source\repos\Week4redo\Week4redo\obj\Debug\Week4redo.pdb
